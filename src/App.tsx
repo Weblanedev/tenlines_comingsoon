@@ -9,7 +9,7 @@ function App() {
         <img
           height={400}
           width={600}
-          src="src/assets/under maintenance.jpg"
+          src="src/assets/under-maintenance.jpg"
           alt="img"
         />
       </div>
