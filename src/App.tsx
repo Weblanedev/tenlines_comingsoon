@@ -10,7 +10,7 @@ function App() {
           height={400}
           width={600}
           src="src/assets/under maintenance.jpg"
-          alt="Coming Soon"
+          alt="img"
         />
       </div>
     </div>
